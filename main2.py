@@ -1,1 +1,0 @@
-print("Physics is my favorite subject")
